@@ -1,3 +1,5 @@
+![BoltFlow - POS, Retail and Restaurant Management Software](assets/boltflow-banner.png)
+
 <div align="center">
 
 # BoltFlow — POS, Retail & Restaurant Management Software

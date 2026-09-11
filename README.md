@@ -1,4 +1,4 @@
-![BoltFlow - POS, Retail and Restaurant Management Software](assets/boltflow-banner.png)
+![BoltFlow - POS, Retail and Restaurant Management Software](assets/boltflow-banner-v2.png)
 
 <div align="center">
 

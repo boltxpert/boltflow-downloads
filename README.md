@@ -49,18 +49,18 @@ connection codes or private financial information. -->
 
 ## Versions & getting started
 
-Latest supplied installer versions, verified on **11 September 2026**:
+**[Download the September 2026 app bundle](https://github.com/boltxpert/boltflow-downloads/releases/tag/bundle-2026-09-11)** — versions verified on 11 September 2026:
 
 | Application | Platform | Version |
 | --- | --- | --- |
-| BoltFlow POS Desktop | Windows | **3.3.4** |
-| BoltFlow POS Mobile | Android | **3.2.6** |
-| BoltFlow Owner | Android | **2.6.0** |
-| BoltFlow Waiter | Android | **1.7.0** |
+| [BoltFlow POS Desktop](https://github.com/boltxpert/boltflow-downloads/releases/download/bundle-2026-09-11/BoltFlowPOS_Setup_v3.3.4.exe) | Windows | **3.3.4** |
+| [BoltFlow POS Mobile](https://github.com/boltxpert/boltflow-downloads/releases/download/bundle-2026-09-11/BoltFlowPOS_v3.2.6.apk) | Android | **3.2.6** |
+| [BoltFlow Owner](https://github.com/boltxpert/boltflow-downloads/releases/download/bundle-2026-09-11/BoltFlow_Owner_v2.6.0.apk) | Android | **2.6.0** |
+| [BoltFlow Waiter](https://github.com/boltxpert/boltflow-downloads/releases/download/bundle-2026-09-11/BoltFlow_Waiter_v1.7.apk) | Android | **1.7.0** |
 
 The supplied Android packages require **Android 7.0 or newer**. Version numbers are independent across applications.
 
-**Installers are not yet published in this repository.** [Check Releases](https://github.com/boltxpert/boltflow-downloads/releases) or [contact us for installation files](https://wa.me/923407000792?text=Hello%2C%20please%20share%20BoltFlow%20installation%20files%20and%20setup%20details.).
+**Signing notice:** the supplied APKs use an Android Debug certificate; the Windows installer is not code-signed. Files are distributed unchanged. Read the [release notes and installation precautions](https://github.com/boltxpert/boltflow-downloads/releases/tag/bundle-2026-09-11) and verify downloads using the attached `SHA256SUMS.txt`.
 
 1. Confirm your business requirements, license and supported devices with our team.
 2. Install POS and configure products, staff and receipt printers.
